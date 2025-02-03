@@ -30,8 +30,12 @@ Record a short video of your story to display here on your README. You can do th
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-<video controls src="20250131-1757-35.3928559.mp4" title="Title"></video>
+
+https://streamable.com/csy4d2
 Since youtube does not work for me, I chose to upload my video here.
+this link has a video I uploaded that demonstrates the 2d arrays working in a new picture from the theater. 
+please right click, open link in new tab
+If it does not work, it may have expired, and I will be able to demonstrate it directly from my computer
 ## Story Description
 
 The story that my animation showcases is my room. My room is a representation of myself, and it shows a story of what I like to do. The data that is represented in 2d array are the pixels of each image. These relate to my story that my animation showcases becasue without it, my images would not display properly.
